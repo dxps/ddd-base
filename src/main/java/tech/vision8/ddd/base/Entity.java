@@ -13,6 +13,6 @@ public interface Entity<Tid> {
 	Tid id();
 	
 	/** Get the name of this entity. */
-	public String name();
+	String name();
 	
 }
